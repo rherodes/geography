@@ -1,5 +1,5 @@
 # geography
-Search for an ordering of "words" given a list. 
+Search for an ordering of "words" in a given list. 
 An order of words will be returned only if the last character of each word matches the first character of the next.
 Otherwise no solution will be returned. 
 
